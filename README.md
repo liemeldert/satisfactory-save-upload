@@ -1,4 +1,7 @@
 # satisfactory-save-upload
+
+### Very much WIP at the moment
+
 Python script to automatically handle uploading satisfactory saves to a remote location on rclone as an alternative for dedicated servers.
 Since this is based on rclone, you can use products like google drive to easily share the save files with others.
 I created this because servers do not currently support mods.
