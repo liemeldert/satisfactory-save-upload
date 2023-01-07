@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SaveUpload (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "SaveUpload (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
